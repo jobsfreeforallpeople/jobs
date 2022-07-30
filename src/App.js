@@ -9,7 +9,7 @@ function App() {
       <div className='card'>
         <h1 className='title'>Te estamos esperando</h1>
         <hr className='rounded'/>
-        <h3 className='text1'>Si te llamas Valentina Garay, y naciste el 8 de marzo del 2000, entonces esto es para vos. Asistí a nuestra entrevista para almozar con alguien que te considera muy especial en su vida.</h3>
+        <h3 className='text1'>Hola, Valentina Garay. Asistí a nuestra entrevista para almozar con alguien que te considera muy especial en su vida nde.</h3>
         <h2 className='text1'> ¿Donde? </h2>
         <img className='map' src={map} alt='mapa'></img>
         <h2 className='text1'> ¿Cuando? </h2>
